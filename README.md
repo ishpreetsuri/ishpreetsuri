@@ -50,7 +50,7 @@
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishpreet-singh-a81920291)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishpreet17suri@gmail.com)
-[![Website](https://img.shields.io/badge/Cocokart-FF6F61?style=for-the-badge&logo=shopify&logoColor=white)](https://www.cocokart.shop)
+[![Website](https://img.shields.io/badge/Cocokart-FF6F61?style=for-the-badge&logo=shopify&logoColor=white)](https://ishpreetsuri.github.io/cocokart-archive/)
 
 ---
 > 💡 *"Working toward AI Engineering — building real software with Python, AI tools, and LLM-powered workflows."*
